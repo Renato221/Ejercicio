@@ -1,2 +1,2 @@
 # Ejercicio
-Solo un ejemplo de algo
+Solo un ejemplo de algo...
