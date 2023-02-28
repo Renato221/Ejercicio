@@ -1,10 +1,10 @@
-namespace Ejercicio
+namespace Ejercicio;
 
 class Persona {
 
     public int edad;
 
-    public void saludar() {
+    public void Saludar() {
         
         Console.WriteLine("Hola");
     }

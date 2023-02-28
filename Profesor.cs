@@ -2,7 +2,7 @@ namespace Ejercicio;
 
 class Profesor : Persona {
 
-    public void explicar() {
+    public void Explicar() {
 
         Console.WriteLine("Estoy explicando");
     }

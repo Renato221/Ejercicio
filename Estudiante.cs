@@ -1,4 +1,4 @@
-namespace Ejercicio
+namespace Ejercicio;
 
 class Estudiante : Persona{
 
@@ -8,6 +8,6 @@ class Estudiante : Persona{
 
     public void MostrarEdad() {
 
-        Console.WriteLine($"Mi edad es: {edad} años")
+        Console.WriteLine($"Mi edad es: {edad} años");
     }
 }
